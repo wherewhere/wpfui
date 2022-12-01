@@ -4,7 +4,7 @@
         <PackageVersion Include="Microsoft.Extensions.Hosting" Version="7.0.0"/>
         <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="1.1.1" />
         <PackageVersion Include="Microsoft.VisualStudio.CoreUtility" Version="17.2.3194" />
-        <PackageVersion Include="Microsoft.VisualStudio.SDK" Version="17.3.32804.24" />
+        <PackageVersion Include="Microsoft.VisualStudio.SDK" Version="17.4.33103.184" />
         <PackageVersion Include="Microsoft.VSSDK.BuildTools" Version="17.4.2118" />
         <PackageVersion Include="Microsoft.Web.WebView2" Version="1.0.1418.22" />
         <PackageVersion Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.755" />
